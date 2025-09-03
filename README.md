@@ -25,7 +25,7 @@ nse-stock-analysis
 
 1. **Clone the repository:**
    ```
-   git clone <repository-url>
+   git clone https://github.com/wrong24/DLG_SP.git
    cd nse-stock-analysis
    ```
 
