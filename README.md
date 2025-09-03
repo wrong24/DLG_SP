@@ -1,4 +1,4 @@
-# NSE Stock Market Performance Prediction using HyperGraph Neural Networks
+# Stock Market Performance Prediction using HyperGraph NN
 This project aims to analyze stock data from the National Stock Exchange (NSE) of India using advanced machine learning techniques, including Temporal Graph Attention Networks (TGAT) and Hypergraph Neural Networks (HGNN). The analysis focuses on identifying the best-performing sectors and stocks based on historical data and temporal relationships.
 
 ## Project Structure
